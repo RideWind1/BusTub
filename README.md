@@ -8,4 +8,5 @@ print("bendi")
 
 def nihao(){
 print("zaixian de ")
+zixnazihsizaixian
 }
